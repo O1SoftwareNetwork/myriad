@@ -3,7 +3,9 @@ Booking System
 
 This booking systems allows entertainment individuals or groups book shows
 
-Typically, when an entertainment act books a show, they're locked in to this venue, and if they end up selling out the venue, that is it. They've sold out. When the entertainment's ticket sales exceeds the capacity of the venue, the entertainment is removed from the current vacancy and venue, and they move up to the vacancy and venue with a greater capacity that can handle their ticket sales. When this happens, the next best entertainment takes the previous entertainments spot. So, it is a constant readjusting of relationships between entertainment and vacancy/venue up until 48 hours before the vacancy. 48 hours before the vacancy, the booking is locked in regardless of the change in ticket sales. At this point, ticket sales are capped at the venues capacity. 
+Currently, when an entertainment act books a show, they're locked in to this venue, and if they end up selling out the venue, that is it. They've sold out. 
+
+Potentially, when the entertainment's ticket sales exceeds the capacity of the venue, the entertainment is removed from the current vacancy and venue, and they move up to the vacancy and venue with a greater capacity that can handle their ticket sales. When this happens, the next best entertainment takes the previous entertainments spot. So, it is a constant readjusting of relationships between entertainment and vacancy/venue up until 48 hours before the vacancy. 48 hours before the vacancy, the booking is locked in regardless of the change in ticket sales. At this point, ticket sales are capped at the venues capacity. 
 
 Benefits of this System
 -----------------------
